@@ -79,7 +79,7 @@ valorDet
 
 Incluyo mis comandos de consola para su facilitacion de verificacion, pero antes de ejecutar en la consola estos comando es OBLIGATORIO primero ejecutar lo siguiente:
 ```
-source("https://raw.githubusercontent.com/LDGG19/Tarea-Inter-s-simple-/refs/heads/main/Inter%C3%A9sSimple.R?token=GHSAT0AAAAAACXYGPNRSAVIV67FYT63UAG4ZXOEMZQ")
+source("https://raw.githubusercontent.com/LDGG19/Inter-sSimple/refs/heads/main/Inter%C3%A9sSimple.R")
 ```
 Ahora, despues de ejecutar esto, podemos poner en nuestra consola uno por uno de los siguientes:
 
