@@ -7,7 +7,7 @@ En este reporsitorio, se agrupan las funciones y actividades informaticas realiz
 Con el siguiente código, puede usted cargar las funciones relativas a los calculos de interes simple:
 
 ```{r}
-source("https://raw.githubusercontent.com/LDGG19/Tarea-Inter-s-simple-/refs/heads/main/Inter%C3%A9sSimple.R?token=GHSAT0AAAAAACXYGPNQ4XW55DLSB73S44BYZXODUSA")
+source("https://raw.githubusercontent.com/LDGG19/Inter-sSimple/refs/heads/main/Inter%C3%A9sSimple.R")
 ```
 
 A continuacion nos basamos en el siguiente ejemplo: Jose Ignacio presta $1,000.00 a una tasa de interés simple del 24% durante 7 meses. Utilizando año natural, diga Usted el Monto que recibirá al final del préstamo.
